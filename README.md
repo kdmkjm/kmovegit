@@ -40,3 +40,9 @@
   
 - **Project (132시간)**<br>
   MVC Model 기반의 웹 어플리케이션 제작
+
+### 소곤 소곤 ERD 구조 (ERD)
+![1](https://user-images.githubusercontent.com/15084307/49595159-c0485800-f9ba-11e8-9837-35e277f37e6f.png)
+
+### 페이지 구조, 명칭 및 기능 구현 문서화
+![jap](https://cloud.githubusercontent.com/assets/25098075/23934899/bbd5aa64-098b-11e7-867f-f5ae5ab91fcb.jpg)
