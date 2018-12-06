@@ -45,4 +45,5 @@
 ![1](https://user-images.githubusercontent.com/15084307/49595159-c0485800-f9ba-11e8-9837-35e277f37e6f.png)
 
 ### 페이지 구조, 명칭 및 기능 구현 문서화
-![jap](https://cloud.githubusercontent.com/assets/25098075/23934899/bbd5aa64-098b-11e7-867f-f5ae5ab91fcb.jpg)
+![2](https://user-images.githubusercontent.com/15084307/49595419-45cc0800-f9bb-11e8-827a-357c205ab7aa.png)
+![3](https://user-images.githubusercontent.com/15084307/49595435-4e244300-f9bb-11e8-9240-b2fd36387c9c.png)
